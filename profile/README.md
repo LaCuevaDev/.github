@@ -27,8 +27,5 @@ Herramientas, bots y experimentos que nacen en proyectos reales y se publican pa
 <!-- TODO: listar los repos destacados cuando existan -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LaCuevaDev/.github/master/profile/badge-agents.png" alt="Agents" height="44">
-  <img src="https://raw.githubusercontent.com/LaCuevaDev/.github/master/profile/badge-code.png" alt="Code" height="44">
-  <img src="https://raw.githubusercontent.com/LaCuevaDev/.github/master/profile/badge-bots.png" alt="Bots" height="44">
-  <img src="https://raw.githubusercontent.com/LaCuevaDev/.github/master/profile/badge-cueva-lab.png" alt="Cueva Lab" height="44">
+  <img src="https://raw.githubusercontent.com/LaCuevaDev/.github/master/profile/badges-strip.png" alt="Agents · Code · Bots · Cueva Lab" width="543">
 </p>
